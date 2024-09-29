@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login_test</string>
+    <string name="id">%s를 입력하시오</string>
+    <string name="ids">ID</string>
+</resources>
